@@ -16,7 +16,15 @@ The easiest way to install Git on MacOS is to use Homebrew, a package manager fo
 
 To install Homebrew, open Terminal and run the following command:
 
-`curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh`
+`curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh > install.sh`
+
+Then you want to make it executable, run the following command:
+
+`chmod +x install.sh`
+
+Next, run the installer with:
+
+`./install.sh`
 
 ### Step 2: Install Git using Homebrew
 
