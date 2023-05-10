@@ -1,5 +1,7 @@
 # Blog
 
+[![pages-build](https://github.com/wesleyem/hello/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wesleyem/hello/actions/workflows/pages/pages-build-deployment)
+
 This is a tech blog that covers a wide range of topics related to self-hosted applications, software development, application security, cybersecurity, networking, privacy, containers, and other related abstractions.
 
 ## Table of Contents
