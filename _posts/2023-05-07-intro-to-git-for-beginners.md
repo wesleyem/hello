@@ -65,4 +65,4 @@ This command creates a new commit with the changes we have made. The commit mess
 
 ## Conclusion
 
-In this article, we introduced you to Git and showed you how to get started with version control using Git. We covered the basics of creating a Git repository, adding files to the repository, and committing changes. With Git, you can collaborate with others on your code, track changes, and easily revert to previous versions if necessary. In the next article in this series, we'll cover more advanced Git topics, including branching and merging.
+In this article, we introduced you to Git and showed you how to get started with version control using Git. We covered the basics of creating a Git repository, adding files to the repository, and committing changes. With Git, you can collaborate with others on your code, track changes, and easily revert to previous versions if necessary. In the [next article]({% post_url 2023-05-09-collaborating-with-git %}) in this series, we'll cover more advanced Git topics, including branching and merging.
