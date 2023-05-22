@@ -53,4 +53,4 @@ This will create a local copy of the remote repository on your machine.
 
 ## Conclusion
 
-Working with remotes in Git is an essential skill for collaborating on code with other developers and storing your code remotely. GitHub is a popular platform for hosting and collaborating on code, and it integrates seamlessly with Git. By understanding the basics of working with remotes in Git and using GitHub, you can efficiently collaborate on projects and manage your codebase with ease. In the next article in this series, we'll cover the git workflow and some best practices for a smooth development process.
+Working with remotes in Git is an essential skill for collaborating on code with other developers and storing your code remotely. GitHub is a popular platform for hosting and collaborating on code, and it integrates seamlessly with Git. By understanding the basics of working with remotes in Git and using GitHub, you can efficiently collaborate on projects and manage your codebase with ease. In the [next article]({% post_url 2023-05-21-git-workflow %}) in this series, we'll cover the git workflow and some best practices for a smooth development process.
