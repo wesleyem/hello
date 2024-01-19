@@ -1,3 +1,5 @@
+# Consolidated to my personal website
+
 # Blog
 
 [![pages-build](https://github.com/wesleyem/hello/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/wesleyem/hello/actions/workflows/pages/pages-build-deployment)
